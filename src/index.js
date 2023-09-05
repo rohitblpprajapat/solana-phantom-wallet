@@ -7,7 +7,7 @@ async function connectToPhantom() {
   );
 
   
-  const publicKey = new web3.PublicKey('//write your own public key //#note write on string mode ');
+  const publicKey = new web3.PublicKey('///-----wallet-key----');
 
   
   const balance = await connection.getBalance(publicKey);

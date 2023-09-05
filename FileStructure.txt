@@ -1,0 +1,5 @@
+solana-phantom-wallet
+│── package-lock.json
+│── package.json
+└── src
+    └── index.js
